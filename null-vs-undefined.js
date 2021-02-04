@@ -27,7 +27,7 @@ function add3 (num1, num2) {
     console.log(num1 + num2);
 }
 
-const result2 = add2 (13);
+const result2 = add3 (13);
 console.log(result2);
 
 //5 
